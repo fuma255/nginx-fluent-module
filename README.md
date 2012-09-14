@@ -1,4 +1,6 @@
 nginx-fluent-module
 ===================
 
-Nginx Module for Fluentd
+This module move to [Fluentd Project][1]
+
+[1] https://github.com/fluent/nginx-fluentd-module
